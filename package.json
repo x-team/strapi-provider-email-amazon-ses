@@ -1,0 +1,22 @@
+{
+  "name": "@x-team/strapi-provider-email-amazon-ses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joshwnj",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-ses": "2.2.0"
+  }
+}
